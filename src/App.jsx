@@ -128,7 +128,7 @@
                      <button onClick={() => decreaseQty(p.id)}>
                        <img
                          src={Decrease}
-                         className="h-1 sm:h-5"
+                         className="h-1 sm:h-1"
                          alt="decrease"
                        />
                      </button>
